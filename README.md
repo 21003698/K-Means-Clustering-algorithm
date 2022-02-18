@@ -7,25 +7,25 @@ To write a python program to implement K-Means Clustering Algorithm.
 
 ## Algorithm:
 
-###step 1:
+### step 1:
 Get the independent variable X and dependent variable Y.
 
-###step 2:
+### step 2:
 Calculate the mean of the X -values and the mean of the Y -values.
 
-###step 3:
+### step 3:
 Find the slope m of the line of best fit using the formula. eqn1
 
 
-###step 4:
+### step 4:
 Compute the y -intercept of the line by using the formula: eqn2
 
 
-###step5:
+### step5:
 Use the slope m and the y -intercept to form the equation of the line.
 
 
-###step 6:
+### step 6:
 Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 
