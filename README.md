@@ -31,6 +31,8 @@ Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
 ~~~
+## Developed by:challa sandeep
+## Register number:21003698
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.array(eval(input()))
