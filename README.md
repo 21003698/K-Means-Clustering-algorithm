@@ -58,6 +58,8 @@ plt.plot(x,y,color='purple')
 
 ~~~
 ## Output:
+![](1.png)
+![](2.png)
 
 
 ### Insert your output
