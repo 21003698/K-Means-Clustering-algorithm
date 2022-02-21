@@ -58,7 +58,7 @@ plt.plot(x,y,color='purple')
 
 ~~~
 ## Output:
-![](4.png)
+
 
 ### Insert your output
 
